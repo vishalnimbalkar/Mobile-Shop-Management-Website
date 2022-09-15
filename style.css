@@ -1,0 +1,18 @@
+/* login */
+.container-fluid1{
+    background: url('img/login3.webp') no-repeat center center/cover;
+    height: 91.5vh;
+}
+.form-container{
+ box-shadow: -1px 4px 100px 11px rgba(0,0,0,0.75);
+    color: white;
+}
+.form-container img{
+        width: 120px;
+        height: 100px;    
+}
+.signupspan{
+    text-decoration: none;
+}
+ 
+  
